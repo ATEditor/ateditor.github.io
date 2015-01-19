@@ -1,1 +1,0 @@
-{"name":"ATEditor - A free WYSIWYG HTML editor","tagline":"","body":"### Demo:\r\n\r\n### Code:\r\n```js\r\n<textarea id=\"msg\"></textarea>\r\nATEditor.run('msg');\r\n```\r\n\r\n### Download:\r\n[Download Alfa Version](https://github.com/ATEditor/ATEditor/archive/master.zip)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
